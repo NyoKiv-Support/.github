@@ -45,7 +45,7 @@ Nos logiciels sont des **produits commerciaux** : leur code source est **privé*
 Une question, une demande de démonstration ou un besoin spécifique ?
 
 - 📧 Email : `contact@votre-domaine.fr`
-- 🌐 Site web : `https://votre-site.fr`
+- 🌐 Site web : `nyokiv-support.github.io`
 
 ---
 
