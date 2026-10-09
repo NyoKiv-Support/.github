@@ -1,6 +1,6 @@
 <div align="center">
 
-# NyoKiv Support
+# NyoKi
 
 **Des logiciels sur-mesure qui font gagner du temps aux entreprises.**
 
